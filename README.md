@@ -1,8 +1,8 @@
-<p align="center"><img src="assets/android-launcher.png" width="96" alt="마이교대 앱 아이콘"></p>
-
-# 마이교대
+<h1 align="left"><img src="assets/android-launcher.png" width="56" height="56" align="absmiddle" alt=""> 마이교대</h1>
 
 마이교대는 교대 근무자를 위한 근무 달력입니다. 반복되는 근무 순서와 시작일을 설정하면 달력에서 주간·야간·비번을 한눈에 볼 수 있습니다.
+
+[![Android 앱 다운로드](https://img.shields.io/badge/Android%20%EC%95%B1%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-061450?style=for-the-badge&logo=android&logoColor=white)](https://github.com/doraemyon/my-shift-app/releases/)
 
 ## 주요 기능
 
